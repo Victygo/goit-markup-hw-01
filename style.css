@@ -1,0 +1,7 @@
+.team {
+    display: flex;
+}
+figure {
+    margin: 24px;
+    text-align: center;
+}
